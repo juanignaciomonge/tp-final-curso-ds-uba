@@ -61,10 +61,9 @@ cd uba-assessment-churn-prediction
 ```
 pip install -r requirements.txt
 ```
-3. **Data**: Place `customer_data.csv` and `data_description.xlsx` in the `data/raw/` folder (these files are not included in the repository).
-4. **Run Notebooks**:
+3. **Run Notebooks**:
     * Open Jupyter Notebook and run the notebooks in the `notebooks/` folder for exploratory data analysis and feature engineering.
-5. **Training and Evaluation**:
+4. **Training and Evaluation**:
     * Run scripts in `src/models/` to train and evaluate different models.
 
 ## Project Workflow
