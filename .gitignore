@@ -87,3 +87,7 @@ target/
 
 # Mypy cache
 .mypy_cache/
+
+# # Ignore data files
+# data/raw/*.csv
+# data/raw/*.xlsx
