@@ -22,6 +22,8 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
+
+#Ignore virtual enviornment
 venv_tp_final_ds
 
 # PyInstaller
@@ -91,3 +93,4 @@ target/
 # # Ignore data files
 # data/raw/*.csv
 # data/raw/*.xlsx
+
