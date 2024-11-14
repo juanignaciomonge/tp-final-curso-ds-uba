@@ -12,7 +12,7 @@ The dataset includes information on customer behavior and attributes, which can 
   * `data/raw/Modelo_Clasificacion_Dataset.csv`: Original dataset
   * `data/raw/Modelo_Clasificacion_Diccionario_de_Datos.xlsx`: Description of dataset fields and data types
 * **Additional file**:
-  * `docs/TRABAJO CLASIFICACION.pdf`: PDF containing the main task of the assignment
+  * `docs/TRABAJO_CLASIFICACION.pdf`: PDF containing the main task of the assignment
 
 ## Project Structure
 
