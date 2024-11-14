@@ -19,7 +19,7 @@ The dataset includes information on customer behavior and attributes, which can 
 Here’s an overview of the folder structure in this repository:
 
 ```
-churn_prediction_project/
+tp-final-curso-ds-uba/
 ├── data/
 │   ├── raw/                   # Original data files (e.g., CSV and XLSX files)
 │   ├── processed/             # Cleaned and preprocessed data files
@@ -55,7 +55,7 @@ churn_prediction_project/
 1. **Clone the repository**:
 ```
 git clone https://github.com/juanignaciomonge/tp-final-curso-ds-uba.git
-cd churn_prediction_project
+cd tp-final-curso-ds-uba
 ```
 2. **Install dependencies**:
 ```
